@@ -32,7 +32,7 @@ I built this repository to solve the "information overload" problem in security.
 
 ## 📫 Let's Connect!
 - **LinkedIn:** https://www.linkedin.com/in/pcwilson19/
-- **TryHackMe/HTB:** https://tryhackme.com/p/S0T3RION
+- **TryHackMe/HTB:** https://tryhackme.com/p/petercwilson
 - **Personal Blog/Portfolio:** https://github.com/petercwilson/portfolio
 
 *"The more you sweat in peace, the less you bleed in war."*
