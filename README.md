@@ -5,7 +5,7 @@ I’m a security enthusiast focused on Offensive security. I spend my time explo
 
 ---
 
-## 🚀 Featured Project: [Project Sentinel]([https://github.com/your-username/project-sentinel](https://petercwilson.github.io/Project-Sentinel-Cybersecurity-Resource-Hub/))
+## 🚀 Featured Project: [Project Sentinel](https://petercwilson.github.io/Project-Sentinel-Cybersecurity-Resource-Hub/)
 **The Ultimate Cybersecurity Resource Hub.**
 I built this repository to solve the "information overload" problem in security. It features:
 - 🛠️ **Curated Toolsets:** Modern Red & Blue Team stacks.
