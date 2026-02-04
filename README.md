@@ -30,15 +30,9 @@ I built this repository to solve the "information overload" problem in security.
 
 ---
 
-## 📈 My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=radical)
-
----
-
 ## 📫 Let's Connect!
-- **LinkedIn:** [Your Profile Link]
-- **TryHackMe/HTB:** [Your Profile Link]
-- **Personal Blog/Portfolio:** [Your Website Link]
+- **LinkedIn:** https://www.linkedin.com/in/pcwilson19/
+- **TryHackMe/HTB:** https://tryhackme.com/p/S0T3RION
+- **Personal Blog/Portfolio:** https://github.com/petercwilson/portfolio
 
 *"The more you sweat in peace, the less you bleed in war."*
