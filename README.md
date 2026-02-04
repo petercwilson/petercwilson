@@ -1,7 +1,7 @@
-# 👋 Hi, I'm [Your Name/Handle]
+# 👋 Hi, I'm Peter!
 ### 🛡️ Cybersecurity Researcher | Open Source Maintainer | Problem Solver
 
-I’m a security enthusiast focused on **[Offensive/Defensive]** security. I spend my time exploring vulnerabilities, building automation scripts, and curating high-quality resources for the community.
+I’m a security enthusiast focused on Offensive security. I spend my time exploring vulnerabilities, building automation scripts, and curating high-quality resources for the community.
 
 ---
 
