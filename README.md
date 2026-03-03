@@ -17,15 +17,15 @@ I built this repository to solve the "information overload" problem in security.
 ## 🛠️ Technical Arsenal
 
 ### 🚩 Offensive Security
-- **Tools:** Nmap, Burp Suite, Nuclei, Metasploit, Sliver C2.
+- **Tools:** Nmap, Burp Suite, Metasploit.
 - **Skills:** Web Pentesting, Network Recon, Active Directory Attack Paths.
 
 ### 🛡️ Defensive Security
-- **Tools:** Wazuh (SIEM), Wireshark, Velociraptor, Gitleaks.
+- **Tools:** Wireshark.
 - **Skills:** Incident Response, Traffic Analysis, Log Monitoring.
 
 ### 💻 Development & Automation
-- **Languages:** Python, Bash, PowerShell.
+- **Languages:** Python, Bash.
 - **DevOps:** GitHub Actions (CI/CD), Docker, Linux SysAdmin.
 
 ---
